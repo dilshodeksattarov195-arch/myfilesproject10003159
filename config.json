@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentuync",
+        "uuid": 2615652,
+        "checksum": "10kdb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
